@@ -1,0 +1,8 @@
+{
+  "name": "NovaStream IPTV Manager",
+  "description": "A professional, secure, and legal IPTV management platform allowing users to aggregate their own M3U and Xtream sources with a high-performance web player for Live TV, Movies, and Series.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
